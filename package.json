@@ -1,0 +1,16 @@
+{
+  "name": "anotherFolder",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d portfolio"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage":"http://marcel41.github.io/myportfolio",
+  "dependencies": {
+    "gh-pages": "^2.0.1"
+  }
+}
